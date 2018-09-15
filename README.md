@@ -7,7 +7,7 @@ they go back to over and over -- this is my collection.
 
 ## What Scripts are in this Repo?
 
-### [Benchmark Disk Read / Write Speeds](./disk_benchmark.md)
+### [Benchmark Disk Read / Write Speeds](./Disk-Benchmark/disk_benchmark.md)
 
 
-### [Dynamically Whitelist a IP Address](./dynamic_whitelist.md)
+### [Dynamically Whitelist a IP Address](./Dynamic-Whitelist/dynamic_whitelist.md)
